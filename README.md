@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tanmay2626
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tanmay
+- 👀 I’m interested in Development and Cloud Technologies
+- 🌱 I’m currently learning MERN Stack Web Development 
+- 💞️ I’m looking to collaborate on Web Development Projects
+- 📫 How to reach me tanmaywaykar17@gmail.com or www.linkedin.com/in/tanmaywaykar
 
 <!---
 tanmay2626/tanmay2626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
