@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me tanmaywaykar17@gmail.com or www.linkedin.com/in/tanmaywaykar
 
-<!---
-tanmay2626/tanmay2626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Projects 
+1. Amazon Clone
+2. Movie/Series Picker using MovieDB API
+3. Weather WebApp
+4. Photo Gallery
+5. Todo App
+6. Github Search using Github API
