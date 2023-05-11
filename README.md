@@ -5,10 +5,11 @@
 - 📫 How to reach me tanmaywaykar17@gmail.com or www.linkedin.com/in/tanmaywaykar
 
 # Projects 
-1. Amazon Clone
-2. Movie/Series Picker using MovieDB API
-3. Weather WebApp
-4. Photo Gallery
-5. Todo App
-6. Github Search using Github API
-7. Blog Website
+1. Recommerce WebApp 
+2. Amazon Clone
+3. Movie/Series Picker using MovieDB API
+4. Weather WebApp
+5. Photo Gallery
+6. Todo App
+7. Github Search using Github API
+8. Blog Website
