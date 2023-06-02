@@ -20,6 +20,7 @@
 
 |   Stats    |   Certifications   |
 |:----------:|:-----------------:|
-| ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=tanmay2626&show_icons=true&locale=en&layout=compact) | ![Certifications](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png) |
-
+| ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=tanmay2626&show_icons=true&locale=en&layout=compact) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay2626&show_icons=true&theme=tokyonight)
+| ![Certifications](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png) |
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay2626&show_icons=true&theme=tokyonight)
