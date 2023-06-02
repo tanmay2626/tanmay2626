@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Waykar</h1>
 <h3 align="center">Web Developer and AI/ML Enthusiast: Building the Web, Exploring the Possibilities!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay2626&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay2626" /> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Frontend & Backend Development, Python, and Cloud Computing!**
