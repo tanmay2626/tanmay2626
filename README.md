@@ -22,10 +22,17 @@
 <h3 align="left">Certifications:</h3>
 <p><img width=150 align="left" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="tanmay2626" /></p>
 
+<h3 align="left">Hosted Projects:</h3>
 [![Website Preview](https://github.com/tanmay2626/tanmay2626/assets/87329832/ee30acf5-3666-4f17-aaee-6311683380b8)](https://bingepick-tanmay2626.netlify.app/)
-
-
-
+<a href="https://bingepick-tanmay2626.netlify.app/">
+  <img src="https://github.com/tanmay2626/tanmay2626/assets/87329832/ee30acf5-3666-4f17-aaee-6311683380b8" alt="Website Preview" width="400px">
+<div>
+  <a href="https://bingepick-tanmay2626.netlify.app/">
+    <img src="https://github.com/tanmay2626/tanmay2626/assets/87329832/ee30acf5-3666-4f17-aaee-6311683380b8" alt="Website Preview" width="400px">
+    <br>
+    <p style="text-align: center;"><strong>BingePick</strong></p>
+  </a>
+</div>
 
 <br>
 <br>
