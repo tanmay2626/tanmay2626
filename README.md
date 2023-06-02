@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Frontend & Backend Development, Python, and Cloud Computing!**
 
-- 📫 How to reach me **tanmaywaykar17@gmail.com**
+- 📫 How to reach me : **tanmaywaykar17@gmail.com**
 
 - 📄 Know about my experiences tinyurl.com/tanmaywaykar
 
