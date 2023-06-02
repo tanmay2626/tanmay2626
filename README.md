@@ -28,3 +28,4 @@
 
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay2626&show_icons=true&locale=en&layout=compact" alt="tanmay2626" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay2626&show_icons=true&theme=tokyonight)
