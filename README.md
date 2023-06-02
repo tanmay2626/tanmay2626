@@ -29,7 +29,7 @@
 <br>
 
 <h3 align="left">Hosted Projects:</h3>
-<div align="center">
+<div>
   <a href="https://bingepick-tanmay2626.netlify.app/">
     <img src="https://github.com/tanmay2626/tanmay2626/assets/87329832/ee30acf5-3666-4f17-aaee-6311683380b8" alt="Website Preview" width="400px">
     <br>
