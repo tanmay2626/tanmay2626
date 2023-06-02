@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Waykar</h1>
 <h3 align="center">Web Developer and AI/ML Enthusiast: Building the Web, Exploring the Possibilities!</h3>
-<img align="right" alt="gif" width=300 src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" >
+<img align="right" alt="gif" width=300 src="https://gifdb.com/gif/animated-programmer-guy-coding-790a0bs8e8thpisg.html" >
 
 - 🌱 I’m currently learning **Machine Learning**
 
