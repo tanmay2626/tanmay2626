@@ -21,7 +21,7 @@
 <h3 align="left">Certifications:</h3>
 <p><img width=200 align="left" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="tanmay2626" /></p>
 
-</br>
+<br>
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay2626&show_icons=true&locale=en&layout=compact" alt="tanmay2626" /></p>
 
