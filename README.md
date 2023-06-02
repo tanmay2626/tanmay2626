@@ -33,7 +33,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmay2626&show_icons=true&theme=tokyonight)
 
-<h3 align="left">Hosted Projects:</h3>
+
+<!--<h3 align="left">Hosted Projects:</h3>
 <div>
   <a href="https://bingepick-tanmay2626.netlify.app/">
     <img src="https://github.com/tanmay2626/tanmay2626/assets/87329832/ee30acf5-3666-4f17-aaee-6311683380b8" alt="Website Preview" width="400px">
@@ -41,3 +42,4 @@
     <p align="left"><strong>BingePick</strong></p>
   </a>
 </div>
+-->
