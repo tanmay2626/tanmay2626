@@ -22,6 +22,10 @@
 <h3 align="left">Certifications:</h3>
 <p><img width=150 align="left" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="tanmay2626" /></p>
 
+[![Website Preview](![image](https://github.com/tanmay2626/tanmay2626/assets/87329832/ee30acf5-3666-4f17-aaee-6311683380b8)
+)](https://bingepick-tanmay2626.netlify.app/)
+
+
 <br>
 <br>
 <br>
