@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tanmaywaykar17@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/11n9bzctgOVK5vNy6zt_KfOowaog4k22x/view?usp=sharing](https://drive.google.com/file/d/11n9bzctgOVK5vNy6zt_KfOowaog4k22x/view?usp=sharing)](https://tinyurl.com/tanmaywaykar)
+- 📄 Know about my experiences tinyurl.com/tanmaywaykar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
