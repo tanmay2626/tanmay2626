@@ -1,3 +1,4 @@
+<img align="center" alt="gif" src="https://github.com/tanmay2626/tanmay2626/assets/87329832/6af3e1a5-0720-4e5a-9712-be79db195fe2" >
 <h1 align="center">Hi 👋, I'm Tanmay Waykar</h1>
 <h3 align="center">Web Developer and AI/ML Enthusiast: Building the Web, Exploring the Possibilities!</h3>
 <img align="right" alt="gif" width=250 src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.webp" >
