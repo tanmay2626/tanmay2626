@@ -1,14 +1,5 @@
 
-<h3 align="center">Web Developer and AI/ML Enthusiast: Building the Web, Exploring the Possibilities!</h3>
-<img align="right" alt="gif" width=250 src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.webp" >
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Frontend & Backend Development, Python, and Cloud Computing!**
-
-- 📫 How to reach me : **tanmaywaykar17@gmail.com**
-
-- 📄 Know about my experiences :  **tinyurl.com/tanmaywaykar**
+📫 How to reach me : **tanmaywaykar17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
