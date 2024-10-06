@@ -1,5 +1,6 @@
 
-📫 How to reach me : **tanmaywaykar17@gmail.com**
+📫<h3 align="left">Connect with me:</h3>
+**tanmaywaykar17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
