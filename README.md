@@ -28,10 +28,6 @@ tanmaywaykar17@gmail.com
 <br>
 <br>
 
-<h3 align="left">Stats:</h3>
-<p><img align="left" height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay2626&show_icons=true&locale=en&layout=compact" alt="tanmay2626" /></p>
-
-
 <!--<h3 align="left">Hosted Projects:</h3>
 <div>
   <a href="https://bingepick-tanmay2626.netlify.app/">
